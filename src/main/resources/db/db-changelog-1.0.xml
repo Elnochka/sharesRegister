@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+    <changeSet id="create_shares" author="db@user">
+        <createTable tableName="shares">
+            <column name="share_id" type="int" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false" />
+            </column>
+            <column name="share_comment" type="varchar(200)"/>
+            <column name="edrpou" type="bigint">
+                <constraints nullable="false" />
+            </column>
+            <column name="share_quantity" type="int">
+                <constraints nullable="false" />
+            </column>
+            <column name="share_common_nominal_value" type="double">
+                <constraints nullable="false" />
+            </column>
+            <column name="share_nominal_value" type="double">
+                <constraints nullable="false" />
+            </column>
+            <column name="share_date" type="varchar(10)">
+                <constraints nullable="false" />
+            </column>
+            <column name="share_status" type="varchar(10)">
+                <constraints nullable="false" />
+            </column>
+            <column name="history_id" type="int"/>
+
+
+        </createTable>
+    </changeSet>
+
+    <changeSet id="create_history_shares" author="db@user">
+        <createTable tableName="history_shares">
+            <column name="history_id" type="int" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false" />
+            </column>
+            <column name="edrpou" type="bigint">
+                <constraints nullable="false" />
+            </column>
+            <column name="history_name_field" type="varchar(100)">
+                <constraints nullable="false" />
+            </column>
+            <column name="history_old_value" type="varchar(200)">
+                <constraints nullable="false" />
+            </column>
+            <column name="history_new_value" type="varchar(200)">
+                <constraints nullable="false" />
+            </column>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="tag-1.0" author="db@user">
+        <tagDatabase tag="1.0" />
+    </changeSet>
+
+</databaseChangeLog>
