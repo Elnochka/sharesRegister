@@ -1,0 +1,241 @@
+[ {
+  "comment" : "share0",
+  "edrpou" : 123456,
+  "quantity" : 10,
+  "commonValue" : 200.0,
+  "value" : 20.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share1",
+  "edrpou" : 123457,
+  "quantity" : 11,
+  "commonValue" : 231.0,
+  "value" : 21.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share2",
+  "edrpou" : 123458,
+  "quantity" : 12,
+  "commonValue" : 264.0,
+  "value" : 22.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share3",
+  "edrpou" : 123459,
+  "quantity" : 13,
+  "commonValue" : 299.0,
+  "value" : 23.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share4",
+  "edrpou" : 123460,
+  "quantity" : 14,
+  "commonValue" : 336.0,
+  "value" : 24.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share5",
+  "edrpou" : 123461,
+  "quantity" : 15,
+  "commonValue" : 375.0,
+  "value" : 25.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share6",
+  "edrpou" : 123462,
+  "quantity" : 16,
+  "commonValue" : 416.0,
+  "value" : 26.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share7",
+  "edrpou" : 123463,
+  "quantity" : 17,
+  "commonValue" : 459.0,
+  "value" : 27.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share8",
+  "edrpou" : 123464,
+  "quantity" : 18,
+  "commonValue" : 504.0,
+  "value" : 28.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share9",
+  "edrpou" : 123465,
+  "quantity" : 19,
+  "commonValue" : 551.0,
+  "value" : 29.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share10",
+  "edrpou" : 123466,
+  "quantity" : 20,
+  "commonValue" : 600.0,
+  "value" : 30.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share11",
+  "edrpou" : 123467,
+  "quantity" : 21,
+  "commonValue" : 651.0,
+  "value" : 31.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share12",
+  "edrpou" : 123468,
+  "quantity" : 22,
+  "commonValue" : 704.0,
+  "value" : 32.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share13",
+  "edrpou" : 123469,
+  "quantity" : 23,
+  "commonValue" : 759.0,
+  "value" : 33.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share14",
+  "edrpou" : 123470,
+  "quantity" : 24,
+  "commonValue" : 816.0,
+  "value" : 34.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share15",
+  "edrpou" : 123471,
+  "quantity" : 25,
+  "commonValue" : 875.0,
+  "value" : 35.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share16",
+  "edrpou" : 123472,
+  "quantity" : 26,
+  "commonValue" : 936.0,
+  "value" : 36.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share17",
+  "edrpou" : 123473,
+  "quantity" : 27,
+  "commonValue" : 999.0,
+  "value" : 37.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share18",
+  "edrpou" : 123474,
+  "quantity" : 28,
+  "commonValue" : 1064.0,
+  "value" : 38.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share19",
+  "edrpou" : 123475,
+  "quantity" : 29,
+  "commonValue" : 1131.0,
+  "value" : 39.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share20",
+  "edrpou" : 123476,
+  "quantity" : 30,
+  "commonValue" : 1200.0,
+  "value" : 40.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share21",
+  "edrpou" : 123477,
+  "quantity" : 31,
+  "commonValue" : 1271.0,
+  "value" : 41.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share22",
+  "edrpou" : 123478,
+  "quantity" : 32,
+  "commonValue" : 1344.0,
+  "value" : 42.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share23",
+  "edrpou" : 123479,
+  "quantity" : 33,
+  "commonValue" : 1419.0,
+  "value" : 43.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share24",
+  "edrpou" : 123480,
+  "quantity" : 34,
+  "commonValue" : 1496.0,
+  "value" : 44.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share25",
+  "edrpou" : 123481,
+  "quantity" : 35,
+  "commonValue" : 1575.0,
+  "value" : 45.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share26",
+  "edrpou" : 123482,
+  "quantity" : 36,
+  "commonValue" : 1656.0,
+  "value" : 46.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share27",
+  "edrpou" : 123483,
+  "quantity" : 37,
+  "commonValue" : 1739.0,
+  "value" : 47.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share28",
+  "edrpou" : 123484,
+  "quantity" : 38,
+  "commonValue" : 1824.0,
+  "value" : 48.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+}, {
+  "comment" : "share29",
+  "edrpou" : 123485,
+  "quantity" : 39,
+  "commonValue" : 1911.0,
+  "value" : 49.0,
+  "dateShare" : "2020-09-04",
+  "status" : "active"
+} ]
